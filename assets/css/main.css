@@ -78,7 +78,13 @@ a:hover {
   text-decoration: none;
 }
 
-h1,
+h1{
+  font-style: italic ;
+  padding-left: 30px;
+  padding-top: 7px;
+  font-size: 14px;
+}
+
 h2,
 h3,
 h4,
