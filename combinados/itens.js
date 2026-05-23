@@ -75,7 +75,7 @@
         id: 4, category: "Pokes",
         title: "Poke Domó Salmão com Ceviche",
         description: "*POKE 500g* - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco,- 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
-        description2: "*POKE 350g* - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        
         price: "R$ 0",
         color: "#3a3020",
         image: "img/poke-salmao.jpg?w=1200&q=80",
@@ -85,7 +85,7 @@
         id: 5, category: "Pokes",
         title: "Poke Domó Camarão",
         description: "*Poke 500g* -200g Arroz Japonês, - 100g Camarão Crocante, - 30g Ceviche de Peixe Branco, - 40g Manga Doce, - 40g Abacate Cremoso, - 40g Tomate Cereja, - 40g Sunomono, - 10g Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
-        description2: "*Poke 350g* -140g Arroz Japonês, - 70g  Camarão Crocante, - 21g  Ceviche de Peixe Branco, - 28g  Tomatinhos, - 28g  Sunomono, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        
         price: "R$ 0",
         color: "#2a2a1a",
         image: "img/poke-camarao.jpg?w=1200&q=80",
@@ -95,7 +95,7 @@
         id: 6, category: "Pokes",
         title: "Poke Shimeji",
         description:  "*Poke 500g* - 200g Arroz Japonês, - 100g Frango Grelhado com Lemon Pepper, - 30g Shimeji Puxado na Manteiga, - 40g Manga Doce, - 40g Abacate Cremoso, - 40g Tomatinhos, - 40g Sunomono, - 10g Milho Desidratado. Com toque de mel, gergelim e cebolinha",
-        description2: "*Poke 350g* - 140g Arroz Japonês, - 70g  Frango Grelhado com Lemon Pepper, - 21g  Shimeji Puxado na Manteiga, - 28g  Tomate Cereja, - 28g  Sunomono, - 28g  Manga, - 28g  Abacate, - 7g   Milho Desidratado Com toque de mel, gergelim e cebolinha.",
+        
         price: "R$ 0",
         color: "#2a1a10",
         image: "img/poke-shimeji.jpg?w=1200&q=80",
@@ -105,7 +105,7 @@
         id: 7, category: "Pokes",
         title: "Poke Domó Frango com Shimeji",
         description:  "*Poke 500g* - 200g Arroz Japonês, - 130g Shimeji Puxado na Manteiga, - 40g Manga Doce, - 40g Abacate Cremoso, - 40g Tomatinhos, - 40g Sunomono, - 10g Milho Desidratado. Com toque de mel, gergelim e cebolinha",
-        description2: "*Poke 350g* - 140g Arroz Japonês, - 91g  Shimeji Puxado na Manteiga, - 28g  Manga Doce, - 28g  Abacate Cremoso,- 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        
         price: "R$ 0",
         color: "#2a1a10",
         image: "img/poke-frago-com-shimeji.jpg?w=1200&q=80",
