@@ -108,14 +108,13 @@
         description2: "*Poke 350g* - 140g Arroz Japonês, - 91g  Shimeji Puxado na Manteiga, - 28g  Manga Doce, - 28g  Abacate Cremoso,- 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
         price: "R$ 0",
         color: "#2a1a10",
-        image: "img/poke-frago-com-shimeji.jpg?w=1200&q=80",
-        thumb: "img/poke-frago-com-shimeji.jpg?w=600&q=80"
+        image: "img/poke-frago-com-shimeji2.jpg?w=1200&q=80",
+        thumb: "img/poke-frago-com-shimeji2.jpg?w=600&q=80"
       },
       {
         id: 13, category: "Temakis",
         title: "Combo Temaki Skin Grande + Coca + 4 Gunkan Goiabada",
         description: "• 1 Temaki com Pele de Salmão Frita, Cream Cheese, Cebolinha e Gergelim. • 1 Coca Lata 350ml. • 4 Gunkan Romeu e Julieta (Goiabada e Cream Cheese com Raspas de Limão).",
-        description2: "00",
         price: "R$ 0",
         color: "#1a2030",
         image: "img/temaki-skin-coca-romeu-julieta-4und.jpg?w=1200&q=80",
