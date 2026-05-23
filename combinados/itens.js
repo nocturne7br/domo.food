@@ -72,31 +72,44 @@
         thumb: "img/hot-12und.jpg?w=600&q=80"
       },
       {
-        id: 4, category: "Promoções",
+        id: 4, category: "Pokes",
         title: "Poke Domó Salmão com Ceviche",
-        description: "-- POKE 500g -- - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco,- 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado.     -- POKE 350g -- - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado",
+        description: "*POKE 500g* - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco,- 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        description2: "*POKE 350g* - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
         price: "R$ 0",
         color: "#3a3020",
         image: "img/poke-salmao.jpg?w=1200&q=80",
         thumb: "img/poke-salmao.jpg?w=600&q=80"
       },
       {
-        id: 5, category: "Sobremesas",
-        title: "Cheesecake de Maracujá",
-        description: "Cheesecake nova-iorquino com base de biscoito especuloos, creme de cream cheese e mascarpone, coulis de maracujá fresco com sementes crocantes. Refrescante acidez equilibrada pela suavidade da baunilha de Madagascar.",
-        price: "R$ 42",
+        id: 5, category: "Pokes",
+        title: "Poke Domó Camarão",
+        description: "*Poke 500g* -200g Arroz Japonês, - 100g Camarão Crocante, - 30g Ceviche de Peixe Branco, - 40g Manga Doce, - 40g Abacate Cremoso, - 40g Tomate Cereja, - 40g Sunomono, - 10g Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        description2: "*Poke 350g* -140g Arroz Japonês, - 70g  Camarão Crocante, - 21g  Ceviche de Peixe Branco, - 28g  Tomatinhos, - 28g  Sunomono, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        price: "R$ 0",
         color: "#2a2a1a",
-        image: "https://images.unsplash.com/photo-1567171466295-4afa63d45416?w=1200&q=80",
-        thumb: "https://images.unsplash.com/photo-1567171466295-4afa63d45416?w=600&q=80"
+        image: "img/poke-camarao.jpg?w=1200&q=80",
+        thumb: "img/poke-camarao.jpg?w=600&q=80"
       },
       {
-        id: 6, category: "Sobremesas",
-        title: "Tiramisù Clássico",
-        description: "Receita tradicional italiana com savoiardi embebidos em espresso artesanal, creme de mascarpone e gemas pasteurizadas com açúcar de cana, coberto com cacau belga em pó. Servido em taça individual à temperatura perfeita.",
-        price: "R$ 48",
+        id: 6, category: "Pokes",
+        title: "Poke Shimeji",
+        description:  "*Poke 500g* - 200g Arroz Japonês, - 100g Frango Grelhado com Lemon Pepper, - 30g Shimeji Puxado na Manteiga, - 40g Manga Doce, - 40g Abacate Cremoso, - 40g Tomatinhos, - 40g Sunomono, - 10g Milho Desidratado. Com toque de mel, gergelim e cebolinha",
+        description2: "*Poke 350g* - 140g Arroz Japonês, - 70g  Frango Grelhado com Lemon Pepper, - 21g  Shimeji Puxado na Manteiga, - 28g  Tomate Cereja, - 28g  Sunomono, - 28g  Manga, - 28g  Abacate, - 7g   Milho Desidratado Com toque de mel, gergelim e cebolinha.",
+        price: "R$ 0",
         color: "#2a1a10",
-        image: "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=1200&q=80",
-        thumb: "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=600&q=80"
+        image: "img/poke-shimeji.jpg?w=1200&q=80",
+        thumb: "img/poke-shimeji.jpg?w=600&q=80"
+      },
+            {
+        id: 7, category: "Pokes",
+        title: "Poke Domó Frango com Shimeji",
+        description:  "*Poke 500g* - 200g Arroz Japonês, - 130g Shimeji Puxado na Manteiga, - 40g Manga Doce, - 40g Abacate Cremoso, - 40g Tomatinhos, - 40g Sunomono, - 10g Milho Desidratado. Com toque de mel, gergelim e cebolinha",
+        description2: "*Poke 350g* - 140g Arroz Japonês, - 91g  Shimeji Puxado na Manteiga, - 28g  Manga Doce, - 28g  Abacate Cremoso,- 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
+        price: "R$ 0",
+        color: "#2a1a10",
+        image: "img/poke-frago-com-shimeji.jpg?w=1200&q=80",
+        thumb: "img/poke-frago-com-shimeji.jpg?w=600&q=80"
       },
       {
         id: 7, category: "Bebidas",

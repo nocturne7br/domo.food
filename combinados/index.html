@@ -184,12 +184,14 @@
     }
 
     .slide-desc {
+      white-space: pre-line;
       font-size: .9rem;
       font-weight: 300;
       line-height: 1.8;
       color: rgba(240, 232, 216, .72);
       max-width: 480px;
       margin: 0 auto 2rem;
+
     }
 
     .slide-price {
@@ -631,6 +633,7 @@
       <h1 class="lb-title" id="lb-title"></h1>
       <div class="lb-image" id="lb-image"></div>
       <p class="lb-desc" id="lb-desc"></p>
+      <p class="lb-desc" id="lb-desc2"></p>
       <span class="lb-price" id="lb-price"></span>
       <div class="lb-nav">
         <button class="lb-nav-btn" onclick="lbNav(-1)">&#8592; Anterior</button>
@@ -639,10 +642,9 @@
     </div>
   </div>
 
-    <script src="itens.js">  </script>
+  <script src="itens.js">  </script>
 
   <script>
-   
 
     // ─── SLIDESHOW ───────────────────────────────────
     let current = 0, autoPlay = true, timer = null, interval = 5000, startTime;
@@ -662,6 +664,7 @@
         <span class="slide-tag">${item.category}</span>
         <h2 class="slide-title">${item.title}</h2>
         <p class="slide-desc">${item.description}</p>
+        <p class="slide-desc">${item.description2}</p>
         <span class="slide-price">${item.price}</span>
       </div>`;
         sw.appendChild(s);
@@ -760,6 +763,7 @@
       document.getElementById('lb-title').textContent = item.title;
       document.getElementById('lb-image').style.backgroundImage = `url('${item.image}')`;
       document.getElementById('lb-desc').textContent = item.description;
+      document.getElementById('lb-desc2').textContent = item.description2;
       document.getElementById('lb-price').textContent = item.price;
     }
 
