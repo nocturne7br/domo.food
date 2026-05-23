@@ -45,31 +45,40 @@
       },
       
       {
-        id: 2, category: "Principais",
-        title: "Filé Mignon ao Molho Trufado",
-        description: "Corte de filé mignon maturado a seco por 28 dias, selado em manteiga clarificada e finalizado em forno de brasa. Acompanhado de purê de batata-baroa, aspargos grelhados e suntuoso molho de trufas negras do Périgord.",
-        price: "R$ 165",
+        id: 2, category: "Promoções",
+        title: "Combinado Ishigaki 9 und",
+        description: "Composição: - 2 Hots Crocantes com Crisps de Batata-Doce, - 2 Hots Crocantes com Crisps de Couve, - 2 Hossomakis com Terrine Skin e Cream Cheese, - 2 Hots com Cream Cheese e Salmão, - 1 Niguiri Skin Especial",
+        price: "R$ 0",
         color: "#3a2020",
-        image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=1200&q=80",
-        thumb: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=600&q=80"
+        image: "img/ishigaki-9und.jpg?w=1200&q=80",
+        thumb: "img/ishigaki-9und.jpg?w=600&q=80"
+      },
+            {
+        id: 2, category: "Promoções",
+        title: "Compre 1 e leve 2! Temaki Salmão Grande + Temaki Skin Grande",
+        description: "Composição: Temaki de Salmão com cream cheese, cebolinha e gergelim, e o irresistível Temaki Skin com cream cheese e gergelim ",
+        price: "R$ 0",
+        color: "#3a2020",
+        image: "img/temaki-salmao-temaki-skin.jpg?w=1200&q=80",
+        thumb: "img/temaki-salmao-temaki-skin.jpg?w=600&q=80"
       },
       {
-        id: 3, category: "Principais",
-        title: "Salmão Selvagem Grelhado",
-        description: "Salmão do Alasca capturado por pesca sustentável, grelhado na pedra de sal do Himalaia. Servido com quinoa negra ao limão, espuma de ervilhas frescas e emulsão de gengibre e coentro. Leveza e sabor em perfeita harmonia.",
-        price: "R$ 128",
+        id: 3, category: "Promoções",
+        title: "Hot Filadélfia Crocante 12 und",
+        description: "Alga por fora, recheado com salmão, arroz japonês e cream cheese. Empanado e frito na hora, ficando super crocante",
+        price: "R$ 0",
         color: "#2a3040",
-        image: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=1200&q=80",
-        thumb: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=600&q=80"
+        image: "img/hot-12und.jpg?w=1200&q=80",
+        thumb: "img/hot-12und.jpg?w=600&q=80"
       },
       {
-        id: 4, category: "Principais",
-        title: "Risotto de Camarão e Açafrão",
-        description: "Risotto Carnaroli cozido lentamente em caldo de crustáceos, camarões rosa selecionados do litoral catarinense, açafrão espanhol de primeira qualidade, finalizado com parmesão Reggiano e manteiga trufada. Cremosidade irresistível.",
-        price: "R$ 138",
+        id: 4, category: "Promoções",
+        title: "Poke Domó Salmão com Ceviche",
+        description: "-- POKE 500g -- - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco,- 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado.     -- POKE 350g -- - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado",
+        price: "R$ 0",
         color: "#3a3020",
-        image: "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=1200&q=80",
-        thumb: "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=600&q=80"
+        image: "img/poke-salmao.jpg?w=1200&q=80",
+        thumb: "img/poke-salmao.jpg?w=600&q=80"
       },
       {
         id: 5, category: "Sobremesas",
