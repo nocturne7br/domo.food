@@ -115,6 +115,7 @@
         id: 13, category: "Temakis",
         title: "Combo Temaki Skin Grande + Coca + 4 Gunkan Goiabada",
         description: "• 1 Temaki com Pele de Salmão Frita, Cream Cheese, Cebolinha e Gergelim. • 1 Coca Lata 350ml. • 4 Gunkan Romeu e Julieta (Goiabada e Cream Cheese com Raspas de Limão).",
+        description2: "00",
         price: "R$ 0",
         color: "#1a2030",
         image: "img/temaki-skin-coca-romeu-julieta-4und.jpg?w=1200&q=80",
