@@ -175,12 +175,93 @@ const items = [
     thumb: "img/combinado-himitsu-20und.jpg?w=600&q=80"
   },
   {
-    id: 19, category: "Combinados",
+    id: 20, category: "Combinados",
     title: "Combinado Himitsu 40 und",
     description: "- 4 Niguiris de Salmão, - 4 Niguiris Skin, - 2 Gunkans de Morango, - 2 Gunkans de Geléia de Amora, - 2 Gunkans de Camarão, - 8 Sashimis de Salmão, - 8 Sashimis de Peixe Branco, - 4 Uramakis Filadélfia, - 3 Uramakis Skin,- 3 Uramakis Terrine",
     price: "R$ 0",
     color: "#1a2030",
     image: "img/combinado-himitsu-40und.jpg?w=1200&q=80",
     thumb: "img/combinado-himitsu-40und.jpg?w=600&q=80"
-  }
+  },
+  {
+    id: 21, category: "Combinados",
+    title: "Combinado do Chef 47 und",
+    description: "5 sashimis de salmão, 5 sashimis de peixe branco, 5 sashimis de prego defumado,3 gunkans massago, 2 gunkans de shimeji, 2 gunkans de salmão, 3 niguiris de salmão, 6 hossomakis Filadélfia, 10 futomakis especiais com ovas, 6 hossomakis terrine",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/combinado-do-chef-47und.jpg?w=1200&q=80",
+    thumb: "img/combinado-do-chef-47und.jpg?w=600&q=80"
+  },
+  {
+    id: 22, category: "Combinados",
+    title: "Combinado Clássico 40 und",
+    description: "- 8 Uramakis Skin, - 8 Uramakis Filadélfia, - 8 Niguiris Skin, - 8 Hossomakis Filadélfia, - 8 Hossomakis Terrine",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/combo-classico-40-und.jpg?w=1200&q=80",
+    thumb: "img/combo-classico-40-und.jpg?w=600&q=80"
+  },
+  {
+    id: 23, category: "Combinados",
+    title: "Combinado Nagoya Sem Arroz 28 und",
+    description: "• 4 Sashimis de Peixe Branco Defumado, • 4 Sashimis de Salmão, • 4 Sashimis de Peixe Branco, • 4 Gunkans de Salmão com Amêndoas, • 4 Gunkans de Salmão Caramelizado, • 4 Hot Rolls (salmão + cream cheese), • 4 Hossomakis Especiais",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/combinado-nagoya-28und.jpg?w=1200&q=80",
+    thumb: "img/combinado-nagoya-28und.jpg?w=600&q=80"
+  },
+  {
+    id: 24, category: "Combinados",
+    title: "Combinado Osaka com Hot 26 und",
+    description: "- 6 Hots Filadélfia Especiais, - 4 Sashimis de Salmão Frescos, - 4 Gunkans de Salmão com Amêndoas, - 4 Niguiris Salmão Especial, - 8 Hossomakis Filadélfia, 4 Uramakis Filadélfia",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/osaka-26und.jpg?w=1200&q=80",
+    thumb: "img/osaka-26und.jpg?w=600&q=80"
+  },
+  {
+    id: 25, category: "Combinados",
+    title: "Combinado Especial Sushis 28 und",
+    description: "- 6 Hot Filadelfia, - 4 Uramaki Filadelfia, - 4 Uramaki Skin Especial, - 2 Gunkan Peixe Branco com Pitaya, - 2 Gunkan Peixe Branco com Maracujá, - 5 Uramaki Salmão Especial Alho Poró, - 5 Uramaki Salmão Especial com Cebola Roxa Agridoce",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-especial-sushis-28und.jpg?w=1200&q=80",
+    thumb: "img/combinado-especial-sushis-28und.jpg?w=600&q=80"
+  },
+  {
+    id: 26, category: "Sem Cream Cheese",
+    title: "Combinado Sem Cream Cheese 20 und",
+    description: "8 uramakis de salmão, 4 hossomakis de salmão, 4 niguiris de skin, 4 hossomakis de salmão cobertos com patê de salmão",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-sem-cream-cheese-20und.jpg?w=1200&q=80",
+    thumb: "img/combinado-sem-cream-cheese-20und.jpg?w=600&q=80"
+  },
+  {
+    id: 27, category: "Sem Cream Cheese",
+    title: "Combinado Domó Sem Cream Cheese 22 und",
+    description: "4 Sashimis de Salmão, 4 Sashimis de Barriga de Salmão, 4 Sashimis de Atum, 4 Hossomakis Filadelfia, 6 Uramakis Shake",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-domo-sem-cream-cheese-22und.jpg?w=1200&q=80",
+    thumb: "img/combinado-domo-sem-cream-cheese-22und.jpg?w=600&q=80"
+  },
+  {
+    id: 28, category: "Quentes",
+    title: "Combinado Crocante 16 und com Guioza, Hot, Croquetes",
+    description: "• 6 Hot Filadélfia, • 2 Isca de Peixe Branco Empanado, • 2 Croquete de Peixe Branco Empanado, • 2 Croquete de Salmão, • 2 Guiozas Suína, • 2 Rolinhos Primavera",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-crocante-16und.jpg?w=1200&q=80",
+    thumb: "img/combinado-crocante-16und.jpg?w=600&q=80"
+  },
+  {
+    id: 28, category: "Pok",
+    title: "Poke Domó Salmão com Ceviche",
+    description: "-- Poke 500g -- - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco, - 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado, -- Poke 350g -- - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado, * Com toque de mel, gergelim e cebolinha.* Acompanha hashi, molho a sua escolha.",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/poke-salmao2.jpg?w=1200&q=80",
+    thumb: "img/poke-salmao2.jpg?w=600&q=80"
+  },
 ];
