@@ -125,8 +125,8 @@ const items = [
     description2: "*Poke 350g* - 140g Arroz Japonês, - 70g  Frango Grelhado com Lemon Pepper, - 21g  Shimeji Puxado na Manteiga, - 28g  Tomate Cereja, - 28g  Sunomono, - 28g  Manga, - 28g  Abacate, - 7g   Milho Desidratado Com toque de mel, gergelim e cebolinha.",
     price: "R$ 0",
     color: "#2a1a10",
-    image: "img/poke-shimeji.jpg?w=1200&q=80",
-    thumb: "img/poke-shimeji.jpg?w=600&q=80"
+    image: "img/pke-shimeji44.jpg?w=1200&q=80",
+    thumb: "img/pke-shimeji44.jpg?w=600&q=80"
   },
   {
     id: 15, category: "Pokes",
@@ -135,8 +135,8 @@ const items = [
     description2: "*Poke 350g* - 140g Arroz Japonês, - 91g  Shimeji Puxado na Manteiga, - 28g  Manga Doce, - 28g  Abacate Cremoso,- 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
     price: "R$ 0",
     color: "#2a1a10",
-    image: "img/poke-frago-com-shimeji2.jpg?w=1200&q=80",
-    thumb: "img/poke-frago-com-shimeji2.jpg?w=600&q=80"
+    image: "img/55.jpg?w=1200&q=80",
+    thumb: "img/55.jpg?w=600&q=80"
   },
   {
     id: 16, category: "Temakis",
