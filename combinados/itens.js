@@ -261,7 +261,7 @@ const items = [
     description: "-- Poke 500g -- - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco, - 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado, -- Poke 350g -- - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado, * Com toque de mel, gergelim e cebolinha.* Acompanha hashi, molho a sua escolha.",
     price: "R$ 0",
     color: "#2a3040",
-    image: "img/poke-salmao2.jpg?w=1200&q=80",
-    thumb: "img/poke-salmao2.jpg?w=600&q=80"
+    image: "img/22.jpg?w=1200&q=80",
+    thumb: "img/22.jpg?w=600&q=80"
   },
 ];
