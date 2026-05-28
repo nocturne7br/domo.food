@@ -105,8 +105,8 @@ const items = [
     description2: "*POKE 350g* - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
     price: "R$ 0",
     color: "#3a3020",
-    image: "img/poke-salmao.jpg?w=1200&q=80",
-    thumb: "img/poke-salmao.jpg?w=600&q=80"
+    image: "img/22.jpg?w=1200&q=80",
+    thumb: "img/22.jpg?w=600&q=80"
   },
   {
     id: 13, category: "Pokes",
@@ -115,8 +115,8 @@ const items = [
     description2: "*Poke 350g* -140g Arroz Japonês, - 70g  Camarão Crocante, - 21g  Ceviche de Peixe Branco, - 28g  Tomatinhos, - 28g  Sunomono, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 7g  Milho Desidratado. Com toque de mel, gergelim e cebolinha.",
     price: "R$ 0",
     color: "#2a2a1a",
-    image: "img/poke-camarao2.jpg?w=1200&q=80",
-    thumb: "img/poke-camarao2.jpg?w=600&q=80"
+    image: "img/33.jpg?w=1200&q=80",
+    thumb: "img/33.jpg?w=600&q=80"
   },
   {
     id: 14, category: "Pokes",
