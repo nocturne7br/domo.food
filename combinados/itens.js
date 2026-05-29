@@ -146,7 +146,50 @@ const items = [
     color: "#1a2030",
     image: "img/temaki-skin-coca-romeu-julieta-4und.jpg?w=1200&q=80",
     thumb: "img/temaki-skin-coca-romeu-julieta-4und.jpg?w=600&q=80"
+  }, {
+    id: 17, category: "Temakis",
+    title: "Compre 1 e leve 2! Temaki Salmão Grande + Temaki Skin Grande",
+    description: "1 Temaki de Salmão com cream cheese, cebolinha e gergelim, 1 Temaki Skin com cream cheese e gergelim.",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/temaki-salmao-temaki-skin.jpg?w=1200&q=80",
+    thumb: "img/temaki-salmao-temaki-skin.jpg?w=600&q=80"
+  }, {
+    id: 17, category: "Temakis",
+    title: "Temaki Salmão Especial",
+    description: "Recheado com arroz de sushi temperado, cream cheese cremoso e cubos de salmão fresco.",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/temaki-salmao-especial.jpg?w=1200&q=80",
+    thumb: "img/temaki-salmao-especial.jpg?w=600&q=80"
+  }, {
+    id: 17, category: "Temakis",
+    title: "Temaki Salmão - Sem Cream Cheese",
+    description: "Recheado com arroz de sushi temperado, cubos de salmão fresco.",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/temaki-salmao-sem-cream-cheese.jpg?w=1200&q=80",
+    thumb: "img/temaki-salmao-sem-cream-cheese.jpg?w=600&q=80"
   },
+  {
+    id: 17, category: "Temakis",
+    title: "Temaki Camarão",
+    description: "Nori (alga), arroz de sushi, camarão empanado, cream cheese e cebolinha.",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/temaki-camarao.jpg?w=1200&q=80",
+    thumb: "img/temaki-camarao.jpg?w=600&q=80"
+  },
+  {
+    id: 17, category: "Temakis",
+    title: "Temaki Salmão - Sem Cream Cheese",
+    description: "Cone de alga recheado com cream cheese cremoso e pele de salmão frita.",
+    price: "R$ 0",
+    color: "#1a2030",
+    image: "img/temaki-skin.jpg?w=1200&q=80",
+    thumb: "img/temaki-skin.jpg?w=600&q=80"
+  },
+
   {
     id: 17, category: "Combinados",
     title: "Apaixonados Por Salmão 19 und",
@@ -256,12 +299,41 @@ const items = [
     thumb: "img/combinado-crocante-16und.jpg?w=600&q=80"
   },
   {
-    id: 28, category: "Pok",
-    title: "Poke Domó Salmão com Ceviche",
-    description: "-- Poke 500g -- - 200g Arroz Japonês, - 100g  Cubos de Salmão Fresco, - 30g   Ceviche de Peixe Branco, - 40g   Manga Doce, - 40g   Abacate Cremoso, - 40g   Tomatinhos, - 40g   Sunomono, - 10g   Milho Desidratado, -- Poke 350g -- - 140g Arroz Japonês, - 70g   Cubos de Salmão Fresco, - 21g   Ceviche de Peixe Branco, - 28g  Manga Doce, - 28g  Abacate Cremoso, - 28g  Tomatinhos, - 28g  Sunomono, - 7g  Milho Desidratado, * Com toque de mel, gergelim e cebolinha.* Acompanha hashi, molho a sua escolha.",
+    id: 29, category: "Quentes",
+    title: "Combo Croquete Salmão + Acarajé Japonês",
+    description: "2 Croquetes de salmão e 2 Acarajés Japonês.",
     price: "R$ 0",
     color: "#2a3040",
-    image: "img/22.jpg?w=1200&q=80",
-    thumb: "img/22.jpg?w=600&q=80"
+    image: "img/croquete-salmao-acaraje-japones.jpg?w=1200&q=80",
+    thumb: "img/croquete-salmao-acaraje-japones.jpg?w=600&q=80"
   },
+  {
+    id: 28, category: "Carpaccios",
+    title: "Carpaccio de Peixe Branco - 21 peças",
+    description: "21 lâminas finas de peixe branco com pimenta sriracha (molho de pimenta oriental) e caldo de limão (caldo enviado separadamente).",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/carpaccio-peixe-branco.jpg?w=1200&q=80",
+    thumb: "img/carpaccio-peixe-branco.jpg?w=600&q=80"
+  },
+   {
+    id: 29, category: "Carpaccios",
+    title: "Ussuzukuri de Salmão - 21 peças",
+    description: "21 finas lâminas de salmão finalizadas com molho ponzu. (caldo enviado separadamente).",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/ussuzukuri-salmao.jpg?w=1200&q=80",
+    thumb: "img/ussuzukuri-salmao.jpg?w=600&q=80"
+  },
+  {
+    id: 30, category: "Carpaccios",
+    title: "Carpaccio de Polvo - 21 peças",
+    description: "21 finas lâminas de polvo finalizadas com molho especial levemente picante. (caldo enviado separadamente).",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/carpaccio-polvo.jpg?w=1200&q=80",
+    thumb: "img/carpaccio-polvo.jpg?w=600&q=80"
+  }
 ];
+
+carpaccio-polvo
