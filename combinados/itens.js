@@ -271,8 +271,17 @@ const items = [
     image: "img/combinado-especial-sushis-28und.jpg?w=1200&q=80",
     thumb: "img/combinado-especial-sushis-28und.jpg?w=600&q=80"
   },
+    {
+    id: 26, category: "Combinados",
+    title: "Combinado Imperial 40 und",
+    description: "2 Gunkans Salmão, 2 Gunkans Morango, 2 Gunkans Peixe Branco com Geleia de Pimenta, 2 Gunkans Peixe Branco com Camarão Empanado, 4 Gunkans de Amêndoas, 4 Uramakis Filadélfia, 4 Uramakis Especial c/ Cebola Roxa, 4 Sashimi Salmão, 4 Sashimi Peixe Branco, 12 Hots Filadélfia",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-imperial-40und.jpg?w=1200&q=80",
+    thumb: "img/combinado-imperial-40und.jpg?w=600&q=80"
+  },
   {
-    id: 26, category: "Sem Cream Cheese",
+    id: 40, category: "Sem Cream Cheese",
     title: "Combinado Sem Cream Cheese 20 und",
     description: "8 uramakis de salmão, 4 hossomakis de salmão, 4 niguiris de skin, 4 hossomakis de salmão cobertos com patê de salmão",
     price: "R$ 0",
@@ -281,7 +290,7 @@ const items = [
     thumb: "img/combinado-sem-cream-cheese-20und.jpg?w=600&q=80"
   },
   {
-    id: 27, category: "Sem Cream Cheese",
+    id: 41, category: "Sem Cream Cheese",
     title: "Combinado Domó Sem Cream Cheese 22 und",
     description: "4 Sashimis de Salmão, 4 Sashimis de Barriga de Salmão, 4 Sashimis de Atum, 4 Hossomakis Filadelfia, 6 Uramakis Shake",
     price: "R$ 0",
@@ -290,7 +299,7 @@ const items = [
     thumb: "img/combinado-domo-sem-cream-cheese-22und.jpg?w=600&q=80"
   },
   {
-    id: 28, category: "Quentes",
+    id: 45, category: "Quentes",
     title: "Combinado Crocante 16 und com Guioza, Hot, Croquetes",
     description: "• 6 Hot Filadélfia, • 2 Isca de Peixe Branco Empanado, • 2 Croquete de Peixe Branco Empanado, • 2 Croquete de Salmão, • 2 Guiozas Suína, • 2 Rolinhos Primavera",
     price: "R$ 0",
@@ -299,7 +308,7 @@ const items = [
     thumb: "img/combinado-crocante-16und.jpg?w=600&q=80"
   },
   {
-    id: 29, category: "Quentes",
+    id: 46, category: "Quentes",
     title: "Combo Croquete Salmão + Acarajé Japonês",
     description: "2 Croquetes de salmão e 2 Acarajés Japonês.",
     price: "R$ 0",
@@ -308,7 +317,7 @@ const items = [
     thumb: "img/croquete-salmao-acaraje-japones.jpg?w=600&q=80"
   },
   {
-    id: 28, category: "Carpaccios",
+    id: 50, category: "Carpaccios",
     title: "Carpaccio de Peixe Branco - 21 peças",
     description: "21 lâminas finas de peixe branco com pimenta sriracha (molho de pimenta oriental) e caldo de limão (caldo enviado separadamente).",
     price: "R$ 0",
@@ -317,7 +326,7 @@ const items = [
     thumb: "img/carpaccio-peixe-branco.jpg?w=600&q=80"
   },
    {
-    id: 29, category: "Carpaccios",
+    id: 51, category: "Carpaccios",
     title: "Ussuzukuri de Salmão - 21 peças",
     description: "21 finas lâminas de salmão finalizadas com molho ponzu. (caldo enviado separadamente).",
     price: "R$ 0",
@@ -326,7 +335,7 @@ const items = [
     thumb: "img/ussuzukuri-salmao.jpg?w=600&q=80"
   },
   {
-    id: 30, category: "Carpaccios",
+    id: 52, category: "Carpaccios",
     title: "Carpaccio de Polvo - 21 peças",
     description: "21 finas lâminas de polvo finalizadas com molho especial levemente picante. (caldo enviado separadamente).",
     price: "R$ 0",
@@ -336,4 +345,3 @@ const items = [
   }
 ];
 
-carpaccio-polvo
