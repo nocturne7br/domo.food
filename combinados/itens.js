@@ -271,7 +271,7 @@ const items = [
     image: "img/combinado-especial-sushis-28und.jpg?w=1200&q=80",
     thumb: "img/combinado-especial-sushis-28und.jpg?w=600&q=80"
   },
-    {
+  {
     id: 26, category: "Combinados",
     title: "Combinado Imperial 40 und",
     description: "2 Gunkans Salmão, 2 Gunkans Morango, 2 Gunkans Peixe Branco com Geleia de Pimenta, 2 Gunkans Peixe Branco com Camarão Empanado, 4 Gunkans de Amêndoas, 4 Uramakis Filadélfia, 4 Uramakis Especial c/ Cebola Roxa, 4 Sashimi Salmão, 4 Sashimi Peixe Branco, 12 Hots Filadélfia",
@@ -279,6 +279,15 @@ const items = [
     color: "#2a3040",
     image: "img/combinado-imperial-40und.jpg?w=1200&q=80",
     thumb: "img/combinado-imperial-40und.jpg?w=600&q=80"
+  },
+  {
+    id: 27, category: "Combinados",
+    title: "Combinado Harmonia Quente e Frio 20 und",
+    description: "- 2 Sashimis de Salmão, 2 Sashimis de Peixe Branco, 2 Uramakis Especiais com Crips, 2 Niguiris de Peixe Branco, 2 Hossomakis de Salmão, 2 Hossomakis Skin, 6 Hot Filadélfias, 2 Croquete de Peixe Branco",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-harmonia-20und.jpg?w=1200&q=80",
+    thumb: "img/combinado-harmonia-20und.jpg?w=600&q=80"
   },
   {
     id: 40, category: "Sem Cream Cheese",
@@ -325,7 +334,7 @@ const items = [
     image: "img/carpaccio-peixe-branco.jpg?w=1200&q=80",
     thumb: "img/carpaccio-peixe-branco.jpg?w=600&q=80"
   },
-   {
+  {
     id: 51, category: "Carpaccios",
     title: "Ussuzukuri de Salmão - 21 peças",
     description: "21 finas lâminas de salmão finalizadas com molho ponzu. (caldo enviado separadamente).",
