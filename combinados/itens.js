@@ -351,6 +351,24 @@ const items = [
     color: "#2a3040",
     image: "img/carpaccio-polvo.jpg?w=1200&q=80",
     thumb: "img/carpaccio-polvo.jpg?w=600&q=80"
+  },
+  {
+    id: 53, category: "Combinados",
+    title: "Combinado Pop 15 und",
+    description: "4 Uramakis Filadélfia, 4 Skin Roll, 3 Uramakis Especiais com Cebola Roxa, 2 Nigiris Salmão",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-pop-15-und.jpg?w=1200&q=80",
+    thumb: "img/combinado-pop-15-und.jpg?w=600&q=80"
+  },
+  {
+    id: 54, category: "Combinados",
+    title: "Combinado Pop 20 und",
+    description: "3 Sashimis de Salmão, 2 Sashimis de Peixe Branco, 4 Uramakis Filadélfia, 4 Skin Roll, 3 Uramakis Especiais com Cebola Roxa, 2 Nigiris Salmão",
+    price: "R$ 0",
+    color: "#2a3040",
+    image: "img/combinado-pop-20-und.jpg?w=1200&q=80",
+    thumb: "img/combinado-pop-20-und.jpg?w=600&q=80"
   }
 ];
 
